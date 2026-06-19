@@ -11,6 +11,6 @@
         "codigo": 1002,
         "titulo": "Algoritmos y Programacion",
         "autor": "Maria Lopez",
-        "disponible": false
+        "disponible": true
     }
 ]
